@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Market Metrics as Shown on Interactive Plotly Charts
 
-You can use the [editor on GitHub](https://github.com/nishant-reddy/Market-Charts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page serves to provide relevant metrics for equity, bond, commodity, and ForEx markets
 
 ### Markdown
 
