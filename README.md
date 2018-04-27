@@ -9,3 +9,18 @@ Link: https://nishant-reddy.github.io/Market-Charts/
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~nreddy37/3.embed"> </iframe>
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~nreddy37/5.embed"></iframe>
+
+### Fixed Income 
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~nreddy37/18.embed"></iframe>
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~nreddy37/22.embed"></iframe>
+
+### Commodities
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~nreddy37/20.embed"></iframe>
+
+### Foreign Currency Exchanges
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~nreddy37/15.embed"></iframe>
