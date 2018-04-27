@@ -37,5 +37,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### S&P500 Composition by Market Cap
 <div class="iframe_container">
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~nreddy37/1.embed"></iframe>
-<\div>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~nreddy37/1.embed"> </iframe>
+</div>
